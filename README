@@ -1,0 +1,9 @@
+
+this plugin is for test japanese is allow
+include Full Angle character and Half corner character
+you can use iconv - lite plugin change character to ShiftJIS format, and get the range,
+
+    example:
+ToShiftJISRight(character, Array)
+character: is a string you want test
+Array: is ShiftJIS range
